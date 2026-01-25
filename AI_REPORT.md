@@ -9,4 +9,4 @@
 #не үйрендім:
 -react fragment қолдануды 
 -map() және key арқылы тізім шығару 
--props  және children пайдалануды
+-props  және children пайдалануды.
